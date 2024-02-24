@@ -1,0 +1,2 @@
+To elevate my React skills to the next level I joined the React30 challenge. React 30 is a dynamic and immersive coding challenge that catapulted me into the world of React development. The id_cardGenerator is one of 16 unique React projects in this challenge desiged to hone specific skills and techniques in front-end development.
+The id_cardGenerator is the very first challenge and it served as a great exercise to refresh and solidify my JavaScript fundamentals before diving into more complex libraries like React.
